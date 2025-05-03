@@ -5,3 +5,4 @@ __pycache__/*
 .DS_Store/*
 router/__pycache__/*
 utils/__pycache__/*
+workfiles/*
