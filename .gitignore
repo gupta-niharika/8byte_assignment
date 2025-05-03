@@ -1,0 +1,7 @@
+.venv/*
+.venv_py310/*
+.vscode/*
+__pycache__/*
+.DS_Store/*
+router/__pycache__/*
+utils/__pycache__/*
