@@ -3,6 +3,6 @@
 .vscode/*
 __pycache__/*
 .DS_Store/*
-router/__pycache__/*
-utils/__pycache__/*
+api/router/__pycache__/*
+api/utils/__pycache__/*
 workfiles/*
